@@ -7,4 +7,4 @@ for num in lst:
 	       # -5
 	       # -8
 print("list: ", lst)
-print("my minimum of this list is: ", my_min)
+print("The minimum of this list is: ", my_min)
